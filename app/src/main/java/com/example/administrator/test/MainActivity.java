@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "开发新代码", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "修复新代码bug", Toast.LENGTH_SHORT).show();
 
+ Toast.makeText(this, "同事代码", Toast.LENGTH_SHORT).show();
     }
 }
