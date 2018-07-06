@@ -12,12 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //TextView TV = (TextView)findViewById(R.id.tv);
         findViewById(R.id.tv);
-        Toast.makeText(this, "我做了修改", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "增加了新功能", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "增加了新功能2", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "增加了新功能3", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "增加了新功能4", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "增加了新功能5", Toast.LENGTH_SHORT).show();
          findViewById(R.id.tv);
         findViewById(R.id.tv);
         findViewById(R.id.tv);
