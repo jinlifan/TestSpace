@@ -2,7 +2,6 @@ package com.example.administrator.test;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -15,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
         findViewById(R.id.tv);
         Toast.makeText(this, "我做了修改", Toast.LENGTH_SHORT).show();
         Toast.makeText(this, "增加了新功能", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "增加了新功能2", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "增加了新功能3", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "增加了新功能4", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "增加了新功能5", Toast.LENGTH_SHORT).show();
          findViewById(R.id.tv);
         findViewById(R.id.tv);
         findViewById(R.id.tv);
